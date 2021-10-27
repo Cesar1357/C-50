@@ -1,0 +1,31 @@
+h1{
+    color:black;
+}
+body{
+    background-color: rgba(0, 52, 112, 0.322);
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    font-size: 20;
+    font-family: sans-serif;
+}
+
+.header{
+    background-color: aqua;
+    display:flex;
+    justify-content: space-between;
+}
+.elements{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.element{
+    border-radius: 20px;
+    width: 1500px;
+    font-family: cursive;
+}
+p,h2{
+    text-align: center;
+}
